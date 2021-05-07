@@ -1,0 +1,17 @@
+*{
+    background-color: aqua;
+}
+
+h1{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.Images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.list{
+    font-family: 'Times New Roman';
+}
